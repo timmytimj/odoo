@@ -81,7 +81,7 @@ msgstr "Chi siamo"
 #. module: sale_quotation_builder
 #: model_terms:ir.ui.view,arch_db:sale_quotation_builder.brand_promotion
 msgid "An awesome"
-msgstr ""
+msgstr "Un fantastico"
 
 #. module: sale_quotation_builder
 #: model_terms:sale.order.template,website_description:sale_quotation_builder.sale_order_template_default
@@ -107,7 +107,7 @@ msgstr "Impostazioni di configurazione"
 #. module: sale_quotation_builder
 #: model_terms:ir.ui.view,arch_db:sale_quotation_builder.sale_order_template_view_form_inherit_sale_quotation_builder
 msgid "Design Template"
-msgstr ""
+msgstr "Progetta modello"
 
 #. module: sale_quotation_builder
 #: model_terms:sale.order.template,website_description:sale_quotation_builder.sale_order_template_default
@@ -142,7 +142,7 @@ msgstr "CRM open source"
 #. module: sale_quotation_builder
 #: model_terms:ir.ui.view,arch_db:sale_quotation_builder.so_template
 msgid "Optional Product:"
-msgstr "Prodotto Opzionale:"
+msgstr "Prodotto opzionale:"
 
 #. module: sale_quotation_builder
 #: model_terms:sale.order.template,website_description:sale_quotation_builder.sale_order_template_default
@@ -201,7 +201,7 @@ msgstr "Descrizione del solo preventivo"
 #. module: sale_quotation_builder
 #: model:ir.model,name:sale_quotation_builder.model_sale_order_template
 msgid "Quotation Template"
-msgstr "Modello di preventivo"
+msgstr "Modello preventivo"
 
 #. module: sale_quotation_builder
 #: model:ir.model,name:sale_quotation_builder.model_sale_order_template_line
@@ -264,7 +264,7 @@ msgstr ""
 #. module: sale_quotation_builder
 #: model_terms:ir.ui.view,arch_db:sale_quotation_builder.so_template
 msgid "This is a preview of the sale order template."
-msgstr ""
+msgstr "Anteprima del modello ordine di vendita."
 
 #. module: sale_quotation_builder
 #: model_terms:ir.ui.view,arch_db:sale_quotation_builder.so_template

@@ -10463,6 +10463,12 @@ msgstr ""
 #. module: base
 #: code:addons/base/models/res_lang.py:0
 #, python-format
+msgid "Cannot deactivate a language that is currently used by contacts."
+msgstr ""
+
+#. module: base
+#: code:addons/base/models/res_lang.py:0
+#, python-format
 msgid "Cannot deactivate a language that is currently used by users."
 msgstr ""
 "Nie można dezaktywować języka, który jest aktualnie używany przez "
@@ -20516,6 +20522,12 @@ msgid ""
 msgstr ""
 "Jeden z dokumentów, który próbujesz przeczytać, został usunięty. Spróbuj "
 "ponownie po odświeżeniu."
+
+#. module: base
+#: code:addons/base/models/ir_actions_report.py:0
+#, python-format
+msgid "One of the documents, you try to merge is encrypted"
+msgstr ""
 
 #. module: base
 #: code:addons/models.py:0
